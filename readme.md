@@ -21,7 +21,7 @@ cal looks a lot more like the usual *nix cal
 
 curcal adds color and previous and next months
 
-![cal vs. curcal](https://github.com/brsh/brshLinuxAnalogs/images/calVScurcal.PNG)
+![cal vs. curcal](https://github.com/brsh/brshLinuxAnalogs/blob/master/images/calVScurcal.PNG)
 
 ## New-File (touch)
 Same basic functionality - can create empty files, can change access and modified timestamps,
